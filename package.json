@@ -1,0 +1,8 @@
+{
+  "name": "html-and-ts-starter",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/HiroyukiMakita/html-and-ts-starter.git",
+  "author": "HiroyukiMakita",
+  "license": "MIT"
+}
