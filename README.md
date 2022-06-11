@@ -4,11 +4,17 @@ HTML and TypeScript small starter.
 
 # Usage
 
+1. Install dependencies after clone this repository.
+
+```
+ $ yarn install
+```
+
 1. Start to auto compiler.
    `.ts` files at `.src/ts/*` are auto compile to `.dist/js/*`.
 
 ```
- $ npx tsc --init
+ $ npx tsc --watch
 ```
 
 2. Server start
