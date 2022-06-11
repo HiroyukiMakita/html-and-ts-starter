@@ -1,0 +1,17 @@
+{
+  "name": "html-and-ts-starter",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/HiroyukiMakita/html-and-ts-starter.git",
+  "author": "HiroyukiMakita",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
