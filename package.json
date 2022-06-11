@@ -5,6 +5,9 @@
   "repository": "https://github.com/HiroyukiMakita/html-and-ts-starter.git",
   "author": "HiroyukiMakita",
   "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
   "dependencies": {
     "typescript": "^4.7.3"
   },
