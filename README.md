@@ -14,7 +14,7 @@ HTML and TypeScript small starter.
    `.ts` files at `.src/ts/*` are auto compile to `.dist/js/*`.
 
 ```
- $ npx tsc --watch
+ $ yarn tsc --watch
 ```
 
 2. Server start
