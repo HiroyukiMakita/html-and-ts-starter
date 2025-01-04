@@ -3,6 +3,7 @@
 
 # dependencies directory
 node_modules
+.eslintcache
 
 # transpiled directory
 dist
